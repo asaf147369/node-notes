@@ -1,0 +1,23 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asaf147369/nots-node.git"
+  },
+  "author": "Asaf Hadad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asaf147369/nots-node/issues"
+  },
+  "homepage": "https://github.com/asaf147369/nots-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  }
+}
